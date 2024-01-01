@@ -95,6 +95,10 @@ Add a submit button and Link Bootstrap JavaScript.
 ```
 
 # OUTPUT:
+![Screenshot 2024-01-01 204930](https://github.com/23008112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138972470/b3292504-2352-48ec-af0d-7fdd7d7ff2dd)
+
+![Screenshot 2024-01-01 205000](https://github.com/23008112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138972470/1a12a569-f227-479c-b3b3-8f2ee0981867)
+
 # RESULT:
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
 
@@ -120,7 +124,6 @@ Link the Bootstrap JavaScript file at the end of the body.
 
 # CODE: 10(b)
 ```
-
 <html>
 <head>
 <title> Student Registration Form | ABC Engineering College </title>
@@ -192,6 +195,8 @@ Link the Bootstrap JavaScript file at the end of the body.
 </html>
 ```
 # OUTPUT:10(b):
+
+![Screenshot 2024-01-01 210134](https://github.com/23008112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138972470/8e4f0008-5526-4ccf-83e5-5b54889659a6)
 
 # RESULT:
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -279,6 +284,7 @@ Add a script to handle the form validation on submit.
 
 # OUTPUT:10(c):
 
+![Screenshot 2024-01-01 210324](https://github.com/23008112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138972470/eeab03e2-9d7b-4644-81e1-ca8dfeb4d6c9)
 
 # RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
@@ -305,7 +311,6 @@ Add a script to handle the form validation on submit.
 
 # CODE: 10(d)
 ```
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -348,6 +353,9 @@ Add a script to handle the form validation on submit.
 ```
 # OUTPUT: 10(d):
 
+![Screenshot 2024-01-01 210427](https://github.com/23008112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138972470/0393e380-ef1f-4e6d-a551-ee1f6879f10c)
+
+![Screenshot 2024-01-01 210441](https://github.com/23008112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138972470/ac72b1be-89e7-4e7e-84ea-c8ba7e8bf546)
 
 # RESULT:
 This code creates a basic email login form in Bootstrap with validation function.
